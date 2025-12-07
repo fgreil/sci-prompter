@@ -14,3 +14,9 @@
 - Similar layout to Explore.
 ## History Screen
 - Shows previously viewed articles.
+## Article Screen
+- Here is the information
+- Actions available:
+  * Back to previous screen
+  * Add to favorites (heart icon)
+## Search Screen
