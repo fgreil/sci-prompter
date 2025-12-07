@@ -2,21 +2,11 @@
 
 ![User flow sketch](pp_user_flow.png)
 
-## Splash Screen
-- Entry point of the app.
-- Routes immediately to Explore screen.
-## Explore Screen
-- Main browsing or discovery section.
-- Bottom tabs let you switch to Favorites or History.
-- You can open Menu drawer or Search.
-## Favorites Screen
-- Displays user’s saved favorite articles.
-- Similar layout to Explore.
-## History Screen
-- Shows previously viewed articles.
-## Article Screen
-- Here is the information
-- Actions available:
+The top row shows three primary screens: **Explore** (E), **Favorites** (F), and **History** (H).
+Each of these screens has a top-left menu icon ("hamburger icon"), and a top-right search icon.
+
+Then, there is a **Splash Screen** as entry point of the app. It immediately routes to the Explore-screen.
+
+The **Article Screen** contaisn the information. Actions available are:
   * Back to previous screen
   * Add to favorites (heart icon)
-## Search Screen
