@@ -27,3 +27,9 @@
     ├── navigationHelpers.js
     └── constants.js
 ```
+## `/navigation`
+All navigation configuration files:
+* `DrawerNav.js` for the drawer navigation
+* `Tabs.js` for the bottom tab navigation (Explore / Favorites / History)
+* `SearchStack.js` → Search → Filter → Article
+* `index.js` is an optional convenience file exporting all navigators
